@@ -2,7 +2,7 @@
 <html>
   <head>Abbber jewelry
   </head> 
-  <a href='#contact'><img src ="https://scontent.fiev24-1.fna.fbcdn.net/v/t1.0-9/s960x960/49533923_381909949043758_12942720737738752_o.jpg?_nc_cat=103&ccb=2&_nc_sid=85a577&_nc_ohc=WUm0IYGpTmoAX8SYIOP&_nc_ht=scontent.fiev24-1.fna&tp=7&oh=98435e18fb9a718735876b5d23aca8dc&oe=603FB470"/></a>
+  <a href='#contact'><img src ="https://scontent.fiev24-1.fna.fbcdn.net/v/t1.0-9/s960x960/49533923_381909949043758_12942720737738752_o.jpg?_nc_cat=103&ccb=2&_nc_sid=85a577&_nc_ohc=WUm0IYGpTmoAX8SYIOP&_nc_ht=scontent.fiev24-1.fna&tp=7&oh=98435e18fb9a718735876b5d23aca8dc&oe=603FB470" width="400" height="400" alt="Abbber jewelry"/></a>
   <h2><a href="https://www.instagram.com/abbber.jewelry/?igshid=4d8ldj1w2ecu"> Abbber jewelry</a></h2>
   <p> это современная мода на ювелирные украшения. Не стоит ограничиваться обычным ассортиментом в магазинах. Обратившись в интернет магазин ювелирных изделий, покупатель станет постоянным клиентом, и не сможет отказать себе в таком удовольствии. Каждая коллекция выполняется под строгим соблюдением норм и стандартов ювелирного производства.Опытная команда мастеров готова поразить клиентов новыми непревзойденными изделиями. </p>
   <ul>
@@ -12,7 +12,7 @@
     <li>Fall's It Color: Blush</li>
   </ul>
   <h3> Серьги</h3>
-  <img src = "https://www.instagram.com/p/B3GmkEtnVZh/"/>
+  <img src = "https://github.com/AnastasiiaGris/abbber.github.io/blob/main/e%203.jpg" width="300" height="300" alt="e 3"/>
   <p>Простые формы в украшениях - это то, к чему неравнодушна каждая девушка. Универсальные серьги - пусеты в форме круга отлично подчеркнут твой образ.</p>
   <h3>Кольца</h3>
   <img src = "https://www.instagram.com/p/B3L2c8knh3f/"/>
